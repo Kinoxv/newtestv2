@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xF9E19039A1D912041E4D4C5aC2308F4Ce14cBcF7",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xf9e19039a1d912041e4d4c5ac2308f4ce14cbcf7",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "TESTGLXX",
+  "SYMBOL": "TSGLX",
+  "MAX_SUPPLY": 1111,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 65000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/lives-of-ke",
+  "SHOW_BACKGROUND": true
+}
